@@ -5,6 +5,7 @@ A deep learning-based framework for detecting **synthetic (deepfake) audio** usi
 This research work was **accepted and presented at the IEEE ICICNCT 2025 Conference**.
 
 ---
+Research Paper DOI Link: https://ieeexplore.ieee.org/document/11232782
 
 # 📌 Project Overview
 
